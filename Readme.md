@@ -41,12 +41,16 @@ LICENSE: If you want to make your package open source, you should include a lice
 
 4. Build Your Package
 You can use setuptools to create a source distribution. In your terminal, navigate to the same directory as setup.py and run:
+```
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 python setup.py sdist
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+```
 
 5.Install Your Package Locally
+```
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 pip install .
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+```
 
