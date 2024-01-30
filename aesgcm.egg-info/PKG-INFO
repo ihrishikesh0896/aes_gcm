@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: aesgcm
+Version: 0.1.1
+Summary: A simple AES encryption library
+Author: Hrishikesh Nate
+Author-email: ihrishikeshnate@gmail.com
+Keywords: encryption aes cryptography

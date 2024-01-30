@@ -1,2 +1,2 @@
-from aes_cipher.aes_cipher import AESCipher
-from aes_cipher.aes_cipher_improved import AESGCMCipher
+from aesgcm_cipher.aes_cipher import AESCipher
+from aesgcm_cipher.aes_cipher_improved import AESGCMCipher

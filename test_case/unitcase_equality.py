@@ -1,6 +1,6 @@
 import unittest
 import os
-from aes_cipher.aes_cipher import AESCipher
+from aesgcm_cipher.aes_cipher import AESCipher
 
 class TestAESCipher(unittest.TestCase):
     def test_encrypt_decrypt(self):
