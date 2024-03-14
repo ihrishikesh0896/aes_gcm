@@ -1,3 +1,6 @@
+### How to build a package?
+## This repository contains an encryption package based on AES Encryption in GCM mode, along with this Readme shows how to build a Python package from a script.
+
 Building a local Python package involves several steps, including organizing your code, writing necessary files like setup.py, and potentially distributing it via PyPI if you want it to be installable via pip. Here's a basic guide to get you started:
 
 1. Organize Your Code
